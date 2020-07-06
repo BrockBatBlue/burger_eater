@@ -1,3 +1,6 @@
+.jumbotron {
+  text-align: center;
+}
 li {
   padding: 5px;
   margin: 5px;
@@ -15,5 +18,10 @@ li {
 }
 
 .form-group {
+  align-items: center;
+  text-align: center;
   margin-bottom: 5px;
+}
+h2 {
+  text-align: center;
 }
