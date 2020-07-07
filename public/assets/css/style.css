@@ -1,10 +1,19 @@
 .jumbotron {
   text-align: center;
+  background-color: rgb(250, 223, 149);
+}
+body {
+  background-color: rgb(109, 245, 245);
+}
+.diningTable {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  font-weight: bolder;
 }
 
 .label {
