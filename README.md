@@ -1,5 +1,7 @@
 # Burger Eating Application
 
+- Gives the user ability to fulfill a submitted burger order.
+
 ## Functionality
 
 - When you open the page, you will see a set of seeded burgers with a "devour" button next to them on the left side of the page.
@@ -11,3 +13,7 @@
 ## Site Image
 
 ![Burger Eater Site](public/assets/Images/eat-da-burger.jpg)
+
+## Deployed Site
+
+https://burger-eat-burger-up.herokuapp.com/
